@@ -6,3 +6,5 @@
 ## Historical weather data: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
 
 ## Image tagging: 1. ImageAI (Python Package) 2. YOLO
+
+## HuggingFace, NLTK, VADER, TextBlob
