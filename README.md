@@ -8,3 +8,5 @@
 ## Image tagging: 1. ImageAI (Python Package) 2. YOLO
 
 ## HuggingFace, NLTK, VADER, TextBlob
+
+## We build recommender systems? Bayesian Additive Regression tree, DTs, causal trees, etc.
