@@ -1,5 +1,7 @@
 # SeniorProject
 
+# Info see https://docs.google.com/document/d/13wegpZ9kEaez0sPNTimOziqt149koS6U9nxu9t36nS0/edit
+
 ## Real time weather API using US National Weather Service: https://www.weather.gov/documentation/services-web-api
 
 
